@@ -12,6 +12,6 @@ A Repository with Collection of Useful Addons that are Publically Available and 
 A "Wrapper" Repository with a Collection of Useful Repos/Addons that are Publically Available and not assocaited with MB-KODI
 > Hosted at Github and borsch.ca
 
-- The repo release webpage is located at https://m-borsch.github.io/
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of the MB-KODI m-borsch Repository
+---------------------------------------------------------------------------------------------------------
+> (Latest) - This is the latest version of the MB-KODI m-borsch Repositoryborsch
+> - The repo release webpage is located at https://m-borsch.github.io/ and mirrored at http://borsch.myqnapcloud.com:8089/
