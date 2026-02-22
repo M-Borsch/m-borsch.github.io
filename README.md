@@ -1,5 +1,5 @@
 # MB-KODI
-![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
+![icon](MB-KODI-icon.jpg) 
 
 This is the m-borsch "Wrapper" Repo - Meaining it points to other useful Repositories for Kodi 
 > [!NOTE]
