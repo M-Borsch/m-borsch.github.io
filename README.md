@@ -30,8 +30,7 @@ Github:<br />
 	<li><a href="https://github.com/M-Borsch/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on Github</a></li>
 </ul>
 
-Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
-<br />
+### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 <br />
 Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
