@@ -13,5 +13,5 @@ A "Wrapper" Repository with a Collection of Useful Repos/Addons that are Publica
 > Hosted at Github and borsch.ca
 
 ---------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of the MB-KODI m-borsch Repositoryborsch
+> (Latest) - This is the latest version of the MB-KODI m-borsch Repository
 > - The repo release webpage is located at https://m-borsch.github.io/ and mirrored at http://borsch.myqnapcloud.com:8089/
