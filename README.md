@@ -32,15 +32,19 @@ Github:<br />
 
 ### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
-<br />
+
 Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
+
 <hr>
+
 <p><img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/26a0_fe0f/72.png" alt="âš ï¸" width="20" loading="lazy" data-emoji="âš ï¸" aria-label="âš ï¸"> No Copyright infringement intended <img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/274c/72.png" alt="âŒ" width="20" loading="lazy" data-emoji="âŒ" aria-label="âŒ"> <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a> to fix / Remove. (<span style="font-size: 8px;"><em>NAS</em></span>)</p>
+
 <hr>
 
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Disclaimer
-> 
+>
+
 Information published on or related to MB-KODI® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-KODI is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
 
 Terms and Conditions / Disclaimer
