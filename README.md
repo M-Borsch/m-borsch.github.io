@@ -1,5 +1,5 @@
 # MB-KODI
-This is the m-borsch "Wrapper" Repo - Meaining it points to other useful Repositories for Kodi
+This is the m-borsch "Wrapper" Repo that hosts a list of useful Repositories and Addons for Kodi
 
 ![icon](MB-KODI-icon.jpg) 
 
@@ -14,20 +14,25 @@ A Repository with Collection of Useful Addons that are Publically Available and 
 > - The repo release webpage is located at https://m-borsch.github.io/ and mirrored at http://borsch.myqnapcloud.com:8089/
 >
 <B>Key Repositories and/or Addons</B><br />
-borsch.ca:<br />
+
+<hr>
+
+borsch.ca:
 <ul>
-      	<li><a href="http://borsch.myqnapcloud.com:8089/MB-KODI">MB-KODI on borsch.ca</a></li>
-      	<li><a href="http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS">MB-KODI-ADDONS on borsch.ca</a></li>
-      	<li><a href="http://borsch.myqnapcloud.com:8089/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on borsch.ca</a></li>
+    <li><a href="http://borsch.myqnapcloud.com:8089/MB-KODI">MB-KODI on borsch.ca</a></li>
+    <li><a href="http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS">MB-KODI-ADDONS on borsch.ca</a></li>
+    <li><a href="http://borsch.myqnapcloud.com:8089/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on borsch.ca</a></li>
 	<li><a href="http://borsch.myqnapcloud.com:8089/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on borsch.ca</a></li>
 </ul>
-Github:<br />
-<br />
+
+<hr>
+
+Github:
 <ul>
 	<li><a href="https://m-borsch.github.io/MB-KODI/">MB-KODI Repository on Github</a></li>
 	<li><a href="https://m-borsch.github.io/MB-KODI-ADDONS/">MB-KODI-ADDONS Repository on Github</a></li>
-      	<li><a href="https://github.com/M-Borsch/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on Github</a></li>
-	<li><a href="https://github.com/M-Borsch/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on Github</a></li>
+    <li><a href="https://m-borsch.github.io/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on Github</a></li>
+	<li><a href="https://m-borsch.github.io/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on Github</a></li>
 </ul>
 
 ### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
