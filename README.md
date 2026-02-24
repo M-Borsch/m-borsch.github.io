@@ -7,11 +7,11 @@ This is the m-borsch "Wrapper" Repo that hosts a list of useful Repositories and
 > These are publicly available repositories to help customize your Kodi install.
 
 # MB-KODI
-A Repository with Collection of Useful Addons that are Publically Available and Supported by MB-KODI :sunglasses:
-> Hosted at Github and borsch.ca
+A Repository with Collection of Useful Addons that are Publicly Available and Supported by MB-KODI :sunglasses:
+> Hosted at GitHub and borsch.ca
 > 
 > (Latest) - This is the latest version of the MB-KODI m-borsch Repository
-> - The repo release webpage is located at https://m-borsch.github.io/ and mirrored at http://borsch.myqnapcloud.com:8089/
+> - The repo release webpage is located at https://m-borsch.GitHub.io/ and mirrored at http://borsch.myqnapcloud.com:8089/
 >
 <B>Key Repositories and/or Addons</B><br />
 
@@ -27,16 +27,16 @@ borsch.ca:
 
 <hr>
 
-Github:
+GitHub:
 <ul>
-	<li><a href="https://m-borsch.github.io/MB-KODI/">MB-KODI Repository on Github</a></li>
-	<li><a href="https://m-borsch.github.io/MB-KODI-ADDONS/">MB-KODI-ADDONS Repository on Github</a></li>
-    <li><a href="https://m-borsch.github.io/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on Github</a></li>
-	<li><a href="https://m-borsch.github.io/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on Github</a></li>
+	<li><a href="https://m-borsch.GitHub.io/MB-KODI/">MB-KODI Repository on GitHub</a></li>
+	<li><a href="https://m-borsch.GitHub.io/MB-KODI-ADDONS/">MB-KODI-ADDONS Repository on GitHub</a></li>
+    <li><a href="https://m-borsch.GitHub.io/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on GitHub</a></li>
+	<li><a href="https://m-borsch.GitHub.io/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on GitHub</a></li>
 </ul>
 
-### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
-- <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
+### Reference Articles available at: <a href="http://borsch.ca">borsch.ca</a>
+- <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-GitHub-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 
 Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
 
