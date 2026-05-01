@@ -23,6 +23,7 @@ borsch.ca:
     <li><a href="http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS">MB-KODI-ADDONS on borsch.ca</a></li>
     <li><a href="http://borsch.myqnapcloud.com:8089/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on borsch.ca</a></li>
 	<li><a href="http://borsch.myqnapcloud.com:8089/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on borsch.ca</a></li>
+	<li><a href="http://borsch.myqnapcloud.com:8089/do-magic">MB-KODI plugin.program.do-magic Program Addon on borsch.ca</a></li>
 </ul>
 
 <hr>
@@ -33,6 +34,8 @@ GitHub:
 	<li><a href="https://m-borsch.github.io/MB-KODI-ADDONS/">MB-KODI-ADDONS Repository on GitHub</a></li>
     <li><a href="https://m-borsch.github.io/Insert-Swap-Kodi-Favourites">MB-KODI Insert/Swap Kodi Favourites Program Addon on GitHub</a></li>
 	<li><a href="https://m-borsch.github.io/Manage-Kodi-Favourites">MB-KODI Manage Kodi Favourites Program Addon on GitHub</a></li>
+	<li><a href="https://m-borsch.github.io/plugin.program.do-magic">MB-KODI plugin.program.do-magic Program Addon on GitHub</a></li>
+
 </ul>
 
 ### Reference Articles available at: <a href="http://borsch.ca">borsch.ca</a>
